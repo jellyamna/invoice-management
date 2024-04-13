@@ -9,6 +9,18 @@ e Wallet
   - gopay
   
 
+
+
+
+
+# set untuk running awal 
+
+
+set PATH=D:\kopra\jdk-17.0.10_windows-x64_bin\jdk-17.0.10\bin;D:\kopra\apache-maven-3.9.6\bin;%PATH%
+
+
+
+
 ## set db via docker #
 # -d jalan sebagai daemon/services kita tidak usah pakai, \
 di ganti jadi -rm saja jadi setiap di running ulang akan di destroy dan buat ulang
